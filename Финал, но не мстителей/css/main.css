@@ -229,3 +229,7 @@ max-width: 700px;
 margin: 0 0 0 695px;
 letter-spacing: 0.7px;
 }
+.h4 {
+    font-size: 1.7rem;
+    font-family: 'Comfortaa', cursive;
+}

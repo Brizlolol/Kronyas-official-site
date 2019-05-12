@@ -1,6 +1,6 @@
 @media all and (min-width: 1150px) {
 .red:cover {
-background-color: #00897b;
+background-color: #8b9396;
 border-color: transparent;
 }
 .green:cover {
@@ -8,11 +8,11 @@ border: 2px solid;
 background-color: transparent;
 }
 .nav-link:hover {
-	background-color: #00897b;
+	background-color: #8b9396;
 	color: white;
 }
 .second-item:hover {
-	background-color: #00897b;
+	background-color: #8b9396;
 	color: #fff;
 	transform: scale(1.05);
 	box-shadow: 0 0 40px 5px rgba(0,0,0,0.3);
